@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+
+table {
+            width: 100%;
+            margin: 10px 0;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        /* Style for Nested Table 3 */
+        .nested-link {
+            color: purple;
+            text-decoration: underline;
+        }
+
+        /* Style for Nested Table 4 */
+        .black-background {
+            background-color: black;
+            color: white;
+        }
